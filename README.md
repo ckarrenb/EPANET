@@ -4,6 +4,7 @@ EPANET: Graphical User Interface
 ## Note:
 This repository reflects the ongoing effort to create a Lazarus / Free Pascal based user interface for EPANET. Code in this repository has not currently been subjected to EPA's clearance process but is being developed in the open to aid in testing and debugging from internal and external parties. This status will be updated as code is cleared for official release.
 
+The official stable release of EPANET can be found at [EPANET](https://github.com/USEPA/EPANET2.2)
 
 
 EPA Disclaimer
