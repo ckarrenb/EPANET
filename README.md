@@ -6,6 +6,8 @@ This repository reflects the ongoing effort to create a Lazarus / Free Pascal ba
 
 The official stable release of EPANET can be found at [EPANET](https://github.com/USEPA/EPANET2.2)
 
+Ongoing development of EPANET engine functionality can be found at [EPANET-engine](https://github.com/USEPA/epanet-engine)
+
 
 EPA Disclaimer
 ==============
