@@ -1,5 +1,12 @@
-# EPANET
-EPANET: Graphical User Interface
+# EPANET Graphical User Interface
+![](screenshot.png)
+EPANET is an industry-standard software package for modeling water distribution systems. It simulates the hydraulic and water quality behavior of a pressurized pipe network over an extended period of time. This project introduces a completely new user interface for EPANET that:
+- offers a modern and simple design
+- runs on Windows, Linux and MacOS
+- has full support for EPANET's multi-species water quality (MSX) extension
+- can import data from GIS shapefiles and DXF CAD files
+- can use web mapping services to provide background basemaps
+- includes additional reporting options for simulation results. 
 
 ## Note:
 This repository reflects the ongoing effort to create a Lazarus / Free Pascal based user interface for EPANET. Code in this repository has not currently been subjected to EPA's clearance process but is being developed in the open to aid in testing and debugging from internal and external parties. This status will be updated as code is cleared for official release.
